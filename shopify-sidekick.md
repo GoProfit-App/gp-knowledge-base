@@ -44,10 +44,36 @@ Every tool below takes a time period — a named shortcut (today, yesterday, thi
 - Returns top products ranked by net profit (default), net sales, or refund amount — one-time ranking for the period, not a trend.
 
 ### Feature Guide (docs search)
-- "How do I set up COGS?"
-- "What is ROAS?"
-- "Why does my shipping cost show as zero?"
-- Returns an answer from GoProfit's public help docs plus a source link. Currently available on dev only, not yet in production.
+Returns an answer from GoProfit's public help docs plus a source link. Currently available on dev only, not yet in production.
+
+**Metrics & Glossary**
+- "What is ROAS in GoProfit?"
+- "How do you calculate Net Profit?"
+- "What is Net Profit Margin?"
+- "Explain Average Order Value"
+- "What does CAC mean?"
+- "What is Customer Lifetime Value?"
+- "What is Cost Per Acquisition?"
+- "How is Gross Sales / Total Revenue defined?"
+- "How is Conversion Rate calculated?"
+- "What are Core KPIs?"
+
+**Setup & Configuration**
+- "How do I set up COGS in GoProfit?"
+- "How does quantity-based COGS work?"
+- "How do I connect Facebook Ads?"
+- "How do I add custom expenses?"
+- "Where do I change the app's display currency?"
+- "How do I set up Smart Alerts?"
+
+**Features & Reports**
+- "What are Zones in GoProfit?"
+- "What does the Marketing Performance page show?"
+- "What is the Product Performance report?"
+- "Explain the GoProfit Dashboard"
+- "Explain the Customer Journey feature"
+- "Where can I see Order Analytics?"
+- "Where's the Profit & Loss report?"
 
 ## How It Works
 
@@ -82,7 +108,7 @@ sequenceDiagram
 | Best sellers | "What are my top 5 products by profit this month?" |
 | Most-returned products | "Which products get returned the most?" |
 | A specific date range | "What was my P&L from May 1 to May 15?" |
-| How-to / concept question | "How do I set up COGS?" / "What is ROAS?" |
+| How-to / concept question | "How do I set up COGS?" / "What is ROAS?" (more examples above) |
 
 ## Notes
 
