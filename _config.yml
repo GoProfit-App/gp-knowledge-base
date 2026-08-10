@@ -1,0 +1,6 @@
+title: GoProfit Knowledge Base
+description: GoProfit team knowledge base
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+search_enabled: true
