@@ -4,3 +4,6 @@ remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-remote-theme
 search_enabled: true
+
+mermaid:
+  version: "9.1.6"
